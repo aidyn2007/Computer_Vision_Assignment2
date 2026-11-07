@@ -1,0 +1,5 @@
+experiment,normal,low_light,overexposed,motion_blur,gaussian_noise,jpeg_compression,defocus_blur,color_cast,low_light+enhance,mean_seen_stress,mean_heldout
+A1_baseline_CNN,0.5686,0.3333,0.902,0.5098,0.5882,0.7451,0.4902,0.5294,0.3922,0.6157,0.5098
+MobileNetV2_real,1.0,0.9804,0.9608,0.451,0.7647,0.7451,0.4706,1.0,0.9608,0.7804,0.7353
+MobileNetV2_noaug,0.9608,0.9608,0.8627,0.4118,0.7647,0.8039,0.5098,0.9804,0.9412,0.7608,0.7451
+MobileNetV2_plus_stress,1.0,0.9608,1.0,0.6667,0.902,0.902,0.6078,0.9804,0.9412,0.8863,0.7941

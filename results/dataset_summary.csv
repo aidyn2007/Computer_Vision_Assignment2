@@ -1,0 +1,5 @@
+class,train_real,val_real,test_real,synthetic_T2V,synthetic_stress_copies
+peace,75,16,17,0,30
+stop,75,16,17,0,42
+thumbs_up,74,16,17,0,40
+TOTAL,224,48,51,0,112

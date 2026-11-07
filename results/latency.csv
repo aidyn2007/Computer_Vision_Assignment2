@@ -1,0 +1,5 @@
+model,avg_ms,std_ms,fps,params,device,gpu
+A1_baseline_CNN,45.08,10.84,22.2,11963587,CPU,none
+MobileNetV2_real,275.58,42.8,3.6,2261827,CPU,none
+MobileNetV2_noaug,261.67,45.27,3.8,2261827,CPU,none
+MobileNetV2_plus_stress,254.9,44.35,3.9,2261827,CPU,none
